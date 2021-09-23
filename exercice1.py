@@ -19,7 +19,7 @@ def fizzBuzz(n):
 if __name__ == '__main__':
     n = int(input("indiquez le nombre: "))
 print (fizzBuzz(n))
-salut
+
 
 
 
